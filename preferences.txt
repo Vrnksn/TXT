@@ -1,0 +1,7 @@
+my_preferences:
+	 
+favorite films: "Joker", "Cruel Intentions", "The King",
+favorite serials: "Game of thrones", "Friends", "Your Honor",
+favorite food: draniki, pizza, salads,
+favorite season: autumn,
+country to visit: Australia.
