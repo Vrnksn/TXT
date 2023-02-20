@@ -1,4 +1,4 @@
 Name: Aksinushkina Veranika,
 Age: 30,
 Pets: 0,
-Salary I want: 3000$ per month.
+Salary I want: 2000 per month.
